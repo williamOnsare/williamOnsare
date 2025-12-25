@@ -1,9 +1,8 @@
-## Hi there 👋
+## Hi, I’m William Onsare 👋
 
-# William Onsare - Frontend Engineer (React · TypeScript)
-
-I build pragmatic, maintainable frontend systems that ship value quickly — often in high-paced startup environments.  
-5+ years delivering React-based UIs and internal tools used in production. I focus on reliability, performance, and clear handoffs with product and backend teams.
+Frontend Engineer with 5+ years of experience building and scaling production web applications using React and TypeScript.
+I build pragmatic, maintainable frontend systems that ship value quickly, often in high-paced startup environments. 
+I focus on reliability, performance, and clear handoffs with product and backend teams. 
 
 ## Highlights
 - Frontend stacks: **React, TypeScript, Next.js, Tailwind, SCSS**  
@@ -11,15 +10,24 @@ I build pragmatic, maintainable frontend systems that ship value quickly — oft
 - Recent projects: **ChatSasa (multichannel support platform)**, **WauguziApp**, **Mpesa Hash Decoder**.  
 - Strong collaborator: cross-functional delivery with PMs, designers, and backend engineers.
 
-## Featured repos
-- [mpesa-hash-decoder](https://github.com/williamOnsare/mpesa-hash-decoder) — utility for decoding M-Pesa hashes.  
-- [wauguzi-connect](https://github.com/williamOnsare/wauguzi-connect) — healthcare professional marketplace (frontend).  
-- [tactical-admin](https://github.com/williamOnsare/tactical-admin) — admin dashboards and components.
 
-## Contact
+## 🚀 Featured Work
+**ChatSasa — AI-powered Omni-Channel Customer Support Platform**
+- Core frontend contributor to a multi-year SaaS product
+- Built smart inbox UI, dashboards, and agent workflows
+- Integrated AI-assisted features using OpenAI APIs
+- Focused on usability, performance, and cost optimisation
+
+## 🧰 Tech Stack
+React · AntD · Tailwind · Redux  
+REST · WebSockets · OpenAI APIs  
+Testing (Jest, RTL, Cypress)
+
+## 🔗 Links & Contact
 - Portfolio: https://williamonsare.vercel.app  
 - Email: william.onsare@outlook.com  
 - LinkedIn: https://www.linkedin.com/in/williamOnsare
+- ChatSasa: www.chatsasa.com
 
 ---
 
